@@ -1,0 +1,12 @@
+.navbar {
+    border: 2px solid #000000;
+
+    a {
+        display: flex;
+        text-decoration: none;
+        color: #000;
+        font-size: 2rem;
+        font-weight: bold;
+        justify-content: center;
+    }
+}
